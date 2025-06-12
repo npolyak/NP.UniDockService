@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 
-namespace NP.Ava.UniDockService
+namespace NP.UniDockService
 {
     public interface IUniDockService
     {

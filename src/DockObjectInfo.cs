@@ -1,4 +1,4 @@
-﻿namespace NP.Ava.UniDockService
+﻿namespace NP.UniDockService
 {
     public class DockObjectInfo
     {
